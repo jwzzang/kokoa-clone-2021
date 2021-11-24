@@ -1,0 +1,14 @@
+.find-menu {
+  background-color: tomato;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  color: white;
+  font-weight: 600;
+  position: absolute;
+  left: 22px;
+  bottom: 15px;
+}
